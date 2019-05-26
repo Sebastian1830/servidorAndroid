@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="txtTitle">Enviar Datos al Servidor</string>
+    <string name="hintnombre">Ingresar Nombre</string>
+    <string name="hintcolor">Ingresar Color</string>
+    <string name="btnenviar">Enviar Datos</string>
+</resources>
