@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             protected void onPostExecute(String result) {
                 super.onPostExecute(result);
-                Toast.makeText(MainActivity.this, "Datos enviados con éxito", Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "Datos enviados scon éxito", Toast.LENGTH_LONG).show();
             }
         }
         SendPostReqAsyncTask sendPostReqAsyncTask = new SendPostReqAsyncTask();
